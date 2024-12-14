@@ -1,6 +1,6 @@
-package com.yourname.assignment.utilities;
+package com.vijayakumar.assignment.utilities;
 
-import com.yourname.assignment.employees.*;
+import com.vijayakumar.assignment.employees.*;
 public class EmployeeUtilities {
 
    public void printEmployeeDetails(Employee employee) {

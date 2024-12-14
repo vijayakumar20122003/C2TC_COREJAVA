@@ -1,7 +1,7 @@
-package com.yourname.assignment.main;
+package com.vijayakumar.assignment.main;
 
-import com.yourname.assignment.employees.*;
-import com.yourname.assignment.utilities.*;
+import com.vijayakumar.assignment.employees.*;
+import com.vijayakumar.assignment.utilities.*;
 
 public class AssignmentMain {
 

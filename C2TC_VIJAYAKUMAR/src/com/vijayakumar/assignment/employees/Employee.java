@@ -1,4 +1,4 @@
-package com.yourname.assignment.employees;
+package com.vijayakumar.assignment.employees;
 
 public class Employee {
 	private String name;
